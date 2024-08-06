@@ -9,6 +9,8 @@ Welcome to the Chicken-Game! This is an exciting and interactive game where you 
 -  Chickens move horizontally and change direction when they hit the screen edges.
 - **Random Egg Drops**:
 -  Chickens randomly drop eggs, which you must avoid.
+- **Animated Chicken and Egg Sprites**:
+-  Chickens and eggs have multiple frames for animated movement and breaking effects.
 
 
 ## How to Play 🎮
