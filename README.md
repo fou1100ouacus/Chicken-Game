@@ -2,6 +2,8 @@
 
 Welcome to the Chicken-Game! This is an exciting and interactive game where you control a rocket ship to shoot down chickens while avoiding falling eggs.
 
+![image](https://github.com/user-attachments/assets/5614c3b3-3c58-48d3-903f-2c4430fb3b47)
+
 
 ## Game Features ✨
 
