@@ -11,7 +11,8 @@ Welcome to the Chicken-Game! This is an exciting and interactive game where you 
 -  Chickens randomly drop eggs, which you must avoid.
 - **Animated Chicken and Egg Sprites**:
 -  Chickens and eggs have multiple frames for animated movement and breaking effects.
-
+- **Score and Lives Display**:
+-  Keep track of your score and remaining lives.
 
 ## How to Play 🎮
 
